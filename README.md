@@ -1,0 +1,1 @@
+Developed a modern, user-friendly Password Generator using React.js and CSS, providing users with strong, customizable passwords for enhanced security.This application Provides user experience enhancements such as copy-to-clipboard functionality and alerts.
